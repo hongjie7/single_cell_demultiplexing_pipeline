@@ -1,13 +1,13 @@
 # single cell demultiplexing pipeline
 
 # This Bash script automates demultiplexing of WGS data for multiple samples using **cellSNP-lite** and **vireo**.  
-It validates inputs, processes each sample, and organizes outputs systematically.
+# It validates inputs, processes each sample, and organizes outputs systematically.
 
 ---
 
 ## Script Overview
 
-```bash
+
 #!/bin/bash
 set -euo pipefail
 
