@@ -96,8 +96,8 @@ Tested with:
 
 | Software        | Version |
 |----------------|----------|
-| cellSNP-lite   | 1.2.3    |
-| Vireo          | 0.6.2    |
+| cellSNP-lite   | 0.3.2    |
+| Vireo          | 0.5.8    |
 
 
 ## Notes
