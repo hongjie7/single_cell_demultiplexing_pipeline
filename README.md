@@ -65,7 +65,6 @@ iPSC_VillageA-rep1_day16
 | Chromosomes  | 1–22, X, Y         |
 | minCOUNT     | 20                 |
 | minMAF       | 0.05               |
-| Random seed  | 42                 |
 
 ---
 
